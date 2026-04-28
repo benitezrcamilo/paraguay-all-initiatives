@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/paraguay-en-horizontal.png" width="180" style="vertical-align: bottom;"/>
+  <img src="assets/images/paraguay-en-horizontal.png" width="455" height="130" style="vertical-align: bottom;"/>
 </p>
 
 # PY Paraguay — Official GitHub Repositories 🌎
