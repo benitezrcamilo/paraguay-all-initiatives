@@ -44,4 +44,5 @@ Repositories with scripts and tools for analysis, interpretation, and data explo
 ## 📬 Contact & Governance
 
 This initiative is part of the MapBiomas Network, coordinated by MapBiomas Paraguay in collaboration with national research institutions and partners. For questions related to Paraguay‑specific implementations, please reach out to the MapBiomas Paraguay team.
+
 ---
