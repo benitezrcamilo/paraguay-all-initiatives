@@ -33,6 +33,9 @@ Repositories focused on transversal themes and integrated analytical components 
 
 Repositories containing scripts for mosaic generation, preprocessing, and satellite data organization.
 
+| Repository |
+|------------|
+| 🗺️ [**LULC Mosaics**](https://github.com/mapbiomas/countries-mosaics) | 🗺️ Land use and land cover classification scripts for Paraguay. Implements the official MapBiomas mapping methodology using Google Earth Engine. |
 ### 📊 Validation Workflows
 
 Repositories designed for validation, accuracy assessment, and methodological consistency checks.
