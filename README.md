@@ -25,6 +25,7 @@ Repositories dedicated to the generation of thematic collections for land use an
 | [**paraguay-coverage**](https://github.com/mapbiomas/paraguay-coverage) | 🗺️ Land use and land cover classification scripts for Paraguay. Implements the official MapBiomas mapping methodology using Google Earth Engine. |
 | [**fire-monitoring**](https://github.com/mapbiomas/paraguay-fire) | 🔥 Fire – adapted for Paraguay for mapping burned areas in Paraguay, currently supporting the MapBiomas Fire Collection 2 project. |
 | **water-monitoring** *(coming soon)* | 💧 Water monitoring toolkit – adapted for Paraguay to analyze surface water dynamics, floods, and permanent water bodies. |
+
 ---
 
 ### 🔎 Cross-cutting Themes
